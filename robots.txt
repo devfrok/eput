@@ -1,0 +1,18 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://eput.my.id/sitemap.xml
+Sitemap: https://eput.my.id/sitemap-pages.xml
+Sitemap: https://eput.my.id/rss.xml
+Sitemap: https://eput.my.id/atom.xml
+Sitemap: https://www.eput.my.id/sitemap.xml
+Sitemap: https://www.eput.my.id/sitemap-pages.xml
+Sitemap: https://www.eput.my.id/rss.xml
+Sitemap: https://www.eput.my.id/atom.xml
+Sitemap: http://eput.my.id/sitemap.xml
+Sitemap: http://eput.my.id/sitemap-pages.xml
+Sitemap: http://eput.my.id/rss.xml
+Sitemap: http://eput.my.id/atom.xml
